@@ -1,0 +1,6 @@
+pubilc class Admin{
+
+public int login(){}
+public int register(){}
+
+}
